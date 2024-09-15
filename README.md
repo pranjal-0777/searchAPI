@@ -1,4 +1,4 @@
 # searchAPI
 
-3 Instances of Elastic Search 
+3 Services of Elastic Search <br>
 1 Service of Kinbana
